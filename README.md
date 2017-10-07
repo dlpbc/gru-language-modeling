@@ -1,5 +1,10 @@
-# Language Modeling
-Fun Language Modeling on [nairaland](http://nairaland.com/links/0) featured links dataset [nl-feat-links-dataset](https://github.com/dlpbc/).
+# Language Modeling on Locally curated dataset
+An interesting project that entails training neural net language model on a locally curated dataset. See below or [here](https://github.com/dlpbc/datasets/blob/master/README.md#nairaland-featured-links) for description of the dataset.
+
+## Dataset - 5k featured links on nairaland
+- 5000 sentences
+- One sentence per line
+- Each sentence is the title of a featured link thread on [nairaland](http://nairaland.com)
 
 ## Network Description
 2 Layer Gated Recurrent Units (GRU). A slightly modified version of what was implemented [here](https://github.com/dennybritz/rnn-tutorial-gru-lstm). 
