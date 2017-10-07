@@ -11,7 +11,7 @@ vocabulary_size = 500
 dataset = 'data/nl-feat-links-5k.txt'
 
 # Model related configuration
-train_model_from_scratch = False
+train_model_from_scratch = True
 model_param_input_file = './trained_model_param/model_params.npz' #set this variable if not training from scratch
 model_param_output_file = './trained_model_param/model_params_%s.npz' % datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 word_embedding_dim = 500 
