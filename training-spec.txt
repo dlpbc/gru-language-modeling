@@ -1,0 +1,16 @@
+05 epochs using lr=0.0008, best loss = approx 3.24
+additional 05 epochs using lr=0.0008, best loss = approx 2.92
+additional 05 epochs using lr=0.0008, best loss = approx 2.71
+additional 10 epochs using lr=0.0008, best loss = approx 2.6 something
+additional 10 epochs using lr=0.0004, best loss = approx 1.83
+additional 05 epochs using lr=0.0004, best loss = approx 1.68
+additional 10 epochs using lr=0.0002, best loss = approx 1.31
+additional 10 epochs using lr=0.0002, best loss = approx 1.24
+additional 10 epochs using lr=0.0001, best loss = approx 1.07
+additional 10 epochs using lr=0.0001, best loss = approx 1.05
+additional 05 epochs using lr=0.00008, best loss = approx 1.01
+additional 10 epochs using lr=0.00005, best loss = approx 0.96
+additional 05 epochs using lr=0.00005, best loss = approx 0.96
+additional 05 epochs using lr=0.00003, best loss = approx 0.94
+additional 05 epochs using lr=0.00001, best loss = approx 0.92
+additional 05 epochs using lr=0.000001, best loss = approx 0.92

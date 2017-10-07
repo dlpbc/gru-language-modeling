@@ -1,0 +1,5 @@
+1. fixed slight code error in specify units in embedding layers.
+   dennybritz code specified this parameter in the training file, however, 
+   in the GRUTheano class file, it wasn't used. Instead the number of units
+   for the GRU layers was used as the corresponding number of units for the
+   embedding layer.
